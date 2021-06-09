@@ -19,7 +19,6 @@ Syntax highlighted code block
 ### Algorithms and Data Structure
 <img src="ePortfolio Images/Java-2.jpg?raw=true"/>
 
-
 ---
 ### Databases
 <img src="ePortfolio Images/MySQL.jpg?raw=true"/>
