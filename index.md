@@ -12,17 +12,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 ### Software Design/Engineering
-<img src="ePortfolio Images/Java-1?raw=true/>
+<img src="ePortfolio Images/Java-1.jpg?raw=true"/>
 
 
 ---          
 ### Algorithms and Data Structure
-<img src="ePortfolio Images/Java-2?raw=true/>
+<img src="ePortfolio Images/Java-2.jpg?raw=true"/>
 
 
 ---
 ### Databases
-<img src="ePortfolio Images/MySQL?raw=true/>
+<img src="ePortfolio Images/MySQL.jpg?raw=true"/>
 
           
           
