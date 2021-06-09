@@ -11,10 +11,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Software Design/Engineering
+<img src="ePortfolio Images/Java-1?raw=true/>
 
+
+---          
+### Algorithms and Data Structure
+<img src="ePortfolio Images/Java-2?raw=true/>
+
+
+---
+### Databases
+<img src="ePortfolio Images/MySQL?raw=true/>
+
+          
+          
 - Bulleted
 - List
 
