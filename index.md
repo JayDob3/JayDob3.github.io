@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 ### Software Design/Engineering
-<img src="ePortfolio Images/Java-1.jpg?raw=true"/>
+![image](https://www.jrebel.com/sites/rebel/files/image/2020-05/image-blog-revel-top-java-tools.jpg)
 
 
 ---          
