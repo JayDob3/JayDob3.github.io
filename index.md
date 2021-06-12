@@ -16,18 +16,17 @@
 
 ### *Code Review*
 
-### *Software Design and Engineering: Zoo Authentication Enhancement*
-[ <img src="https://github.com/JayDob3/JayDob3.github.io/blob/main/ePortfolio%20Images/Java-1.jpg" width="700" alt="hi" class="inline" /> ](https://github.com/JayDob3/JayDob3.github.io/commit/a6e0ce67bb84ef03711456b9f47ca7c96a0c8555)
+### *Software Design and Engineering: Zoo Authentication Enhancement*   
+![Java-1](https://user-images.githubusercontent.com/62191321/121773200-458ec380-cb48-11eb-8d6c-f61e067d9970.jpg)
+(https://github.com/JayDob3/JayDob3.github.io/commit/a6e0ce67bb84ef03711456b9f47ca7c96a0c8555)
 
 
 ### *Algorithms and Data Structure: Zoo Authentication Enhancement*
-[ <img src="https://github.com/JayDob3/JayDob3.github.io/blob/main/ePortfolio%20Images/Java-2.jpg" width="700" alt="hi" class="inline" /> ](https://github.com/JayDob3/JayDob3.github.io/commit/a6e0ce67bb84ef03711456b9f47ca7c96a0c8555)
+![Java-2](https://user-images.githubusercontent.com/62191321/121773234-8090f700-cb48-11eb-9aac-82cd3b438abc.jpg)(https://github.com/JayDob3/JayDob3.github.io/commit/a6e0ce67bb84ef03711456b9f47ca7c96a0c8555)
 
 
 ### *Databases: DAD-220 MySQL Database Enhancement*
-[ <img src="https://github.com/JayDob3/JayDob3.github.io/blob/main/ePortfolio%20Images/MySQL.jpg" width="700" alt="hi" class="inline" /> ](https://github.com/JayDob3/JayDob3.github.io/commit/3b4999437b962e8f5f089c767278d2cf2f48d282)
-
-
+![MySQL](https://user-images.githubusercontent.com/62191321/121773239-88509b80-cb48-11eb-9e29-3d4c8d19c9cb.jpg)(https://github.com/JayDob3/JayDob3.github.io/commit/3b4999437b962e8f5f089c767278d2cf2f48d282)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
