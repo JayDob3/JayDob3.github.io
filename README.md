@@ -17,11 +17,11 @@
 ## *Code Review*
 
 ## *Software Design and Engineering: Zoo Authentication Enhancement*
-https://marvel-b1-cdn.bc0a.com/f00000000156946/www.jrebel.com/sites/rebel/files/image/2020-05/image-blog-revel-top-java-tools.jpg
+[https://marvel-b1-cdn.bc0a.com/f00000000156946/www.jrebel.com/sites/rebel/files/image/2020-05/image-blog-revel-top-java-tools.jpg](https://github.com/JayDob3/JayDob3.github.io/tree/main/ZooAuthentication)
 
 ## *Algorithms and Data Structure: Zoo Authentication Enhancement*
-https://images.idgesg.net/images/article/2019/05/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg
+[https://images.idgesg.net/images/article/2019/05/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg](https://github.com/JayDob3/JayDob3.github.io/tree/main/ZooAuthentication)
 
 ## *Databases: DAD-220 MySQL Database Enhancement*
-https://bigdataanalyticsnews.com/wp-content/uploads/2019/05/mysqlhero.jpg
+[https://bigdataanalyticsnews.com/wp-content/uploads/2019/05/mysqlhero.jpg](https://github.com/JayDob3/JayDob3.github.io/tree/main/ZooAuthentication)
 
