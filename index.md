@@ -2,37 +2,42 @@
 
 You can use the [editor on GitHub](https://github.com/JayDob3/JayDob3.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+
+# *JayDob3.github.io*
+## Software Engineering ePortfolio
+### *CS499 Computer Science Capstone*
+
+*My name is Janera Dobson (She/Her), preferred name Jay. I am a President's List alumni at Southern New Hampshire University, majored in Computer Science with a concentration in Software Engineering! Further down, I have thoroughly introduced myself via my Professional Self-Assessment. You will also find a couple of artifacts I have developed from my previous years at SNHU and will now be showcasing them in more complex and professionally functional applications which I advanced throughout my Computer Science Capstone course.*
+
+
+## *Table of Content*
+1. Professional Self-Assessment
+2. Code Review
+3. Software Design and Engineering: Zoo Authentication Enhancement
+4. Algorithms and Data Structure: Zoo Authentication Enhancement
+5. Databases: DAD-220 MySQL Database Enhancement
+
+### *Professional Self-Assessment*
+
+### *Code Review*
+
+### *Software Design and Engineering: Zoo Authentication Enhancement*
+[ <img src="https://github.com/JayDob3/JayDob3.github.io/blob/main/ePortfolio%20Images/Java-1.jpg" width="750" /> ](https://github.com/JayDob3/JayDob3.github.io/commit/a6e0ce67bb84ef03711456b9f47ca7c96a0c8555)
+
+
+### *Algorithms and Data Structure: Zoo Authentication Enhancement*
+[ <img src="https://github.com/JayDob3/JayDob3.github.io/blob/main/ePortfolio%20Images/Java-2.jpg" width="750" /> ](https://github.com/JayDob3/JayDob3.github.io/commit/a6e0ce67bb84ef03711456b9f47ca7c96a0c8555)
+
+
+### *Databases: DAD-220 MySQL Database Enhancement*
+[ <img src="https://github.com/JayDob3/JayDob3.github.io/blob/main/ePortfolio%20Images/MySQL.jpg" width="750" /> ](https://github.com/JayDob3/JayDob3.github.io/commit/3b4999437b962e8f5f089c767278d2cf2f48d282)
+
+
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
-
-### Software Design/Engineering
-![image](https://www.jrebel.com/sites/rebel/files/image/2020-05/image-blog-revel-top-java-tools.jpg)
-
-
----          
-### Algorithms and Data Structure
-<img src="ePortfolio Images/Java-2.jpg?raw=true"/>
-
----
-### Databases
-<img src="ePortfolio Images/MySQL.jpg?raw=true"/>
-
-          
-          
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
 
