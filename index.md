@@ -1,8 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/JayDob3/JayDob3.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-
 # *JayDob3.github.io*
 ## Software Engineering ePortfolio
 ### *CS499 Computer Science Capstone*
@@ -22,15 +17,15 @@ You can use the [editor on GitHub](https://github.com/JayDob3/JayDob3.github.io/
 ### *Code Review*
 
 ### *Software Design and Engineering: Zoo Authentication Enhancement*
-[ <img src="https://github.com/JayDob3/JayDob3.github.io/blob/main/ePortfolio%20Images/Java-1.jpg" width="750" /> ](https://github.com/JayDob3/JayDob3.github.io/commit/a6e0ce67bb84ef03711456b9f47ca7c96a0c8555)
+[ <img src="https://github.com/JayDob3/JayDob3.github.io/blob/main/ePortfolio%20Images/Java-1.jpg" width="700" alt="hi" class="inline" /> ](https://github.com/JayDob3/JayDob3.github.io/commit/a6e0ce67bb84ef03711456b9f47ca7c96a0c8555)
 
 
 ### *Algorithms and Data Structure: Zoo Authentication Enhancement*
-[ <img src="https://github.com/JayDob3/JayDob3.github.io/blob/main/ePortfolio%20Images/Java-2.jpg" width="750" /> ](https://github.com/JayDob3/JayDob3.github.io/commit/a6e0ce67bb84ef03711456b9f47ca7c96a0c8555)
+[ <img src="https://github.com/JayDob3/JayDob3.github.io/blob/main/ePortfolio%20Images/Java-2.jpg" width="700" alt="hi" class="inline" /> ](https://github.com/JayDob3/JayDob3.github.io/commit/a6e0ce67bb84ef03711456b9f47ca7c96a0c8555)
 
 
 ### *Databases: DAD-220 MySQL Database Enhancement*
-[ <img src="https://github.com/JayDob3/JayDob3.github.io/blob/main/ePortfolio%20Images/MySQL.jpg" width="750" /> ](https://github.com/JayDob3/JayDob3.github.io/commit/3b4999437b962e8f5f089c767278d2cf2f48d282)
+[ <img src="https://github.com/JayDob3/JayDob3.github.io/blob/main/ePortfolio%20Images/MySQL.jpg" width="700" alt="hi" class="inline" /> ](https://github.com/JayDob3/JayDob3.github.io/commit/3b4999437b962e8f5f089c767278d2cf2f48d282)
 
 
 
