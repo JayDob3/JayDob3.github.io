@@ -12,16 +12,17 @@
 4. Algorithms and Data Structure: Zoo Authentication Enhancement
 5. Databases: DAD-220 MySQL Database Enhancement
 
-## *Professional Self-Assessment*
+### *Professional Self-Assessment*
 
-## *Code Review*
+### *Code Review*
 
-## *Software Design and Engineering: Zoo Authentication Enhancement*
-[https://marvel-b1-cdn.bc0a.com/f00000000156946/www.jrebel.com/sites/rebel/files/image/2020-05/image-blog-revel-top-java-tools.jpg](https://github.com/JayDob3/JayDob3.github.io/tree/main/ZooAuthentication)
+### *Software Design and Engineering: Zoo Authentication Enhancement*
+<img src="https://github.com/JayDob3/JayDob3.github.io/blob/main/ePortfolio%20Images/Java-1.jpg" width="750" />
 
-## *Algorithms and Data Structure: Zoo Authentication Enhancement*
-[https://images.idgesg.net/images/article/2019/05/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg](https://github.com/JayDob3/JayDob3.github.io/tree/main/ZooAuthentication)
 
-## *Databases: DAD-220 MySQL Database Enhancement*
-[https://bigdataanalyticsnews.com/wp-content/uploads/2019/05/mysqlhero.jpg](https://github.com/JayDob3/JayDob3.github.io/tree/main/ZooAuthentication)
+### *Algorithms and Data Structure: Zoo Authentication Enhancement*
+<img src="https://github.com/JayDob3/JayDob3.github.io/blob/main/ePortfolio%20Images/Java-2.jpg" width="750" />
+
+### *Databases: DAD-220 MySQL Database Enhancement*
+<img src="https://github.com/JayDob3/JayDob3.github.io/blob/main/ePortfolio%20Images/MySQL.jpg" width="750" />
 
