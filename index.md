@@ -15,7 +15,6 @@
 
 
 
-```markdown
 ### *Professional Self-Assessment*
 
 
@@ -43,9 +42,8 @@
 ![MySQL Image](https://raw.githubusercontent.com/JayDob3/JayDob3.github.io/main/ePortfolio%20Images/MySQL.jpg "atabases: DAD-220 MySQL Database Enhancement")
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-
+```markdown
 [https://github.com/JayDob3/JayDob3.github.io/tree/main/ZooAuthentication](url) and ![Java Image](https://raw.githubusercontent.com/JayDob3/JayDob3.github.io/main/ePortfolio%20Images/Java-1.jpg)
 
 [https://github.com/JayDob3/JayDob3.github.io/tree/main/ZooAuthentication](url) and ![Java Image](https://raw.githubusercontent.com/JayDob3/JayDob3.github.io/main/ePortfolio%20Images/Java-2.jpg)
