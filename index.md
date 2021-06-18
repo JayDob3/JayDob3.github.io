@@ -187,13 +187,15 @@ Reflecting on the process of enhancing my artifact, it was difficult to start. I
 
 
 
-
-```markdown
-Link to Zoo Application [Github](https://github.com/JayDob3/JayDob3.github.io/tree/main/ZooAuthentication).
-
-Link to Messaging Database [Github](https://github.com/JayDob3/JayDob3.github.io/tree/main/DAD220UpdatedFinalProject).
+```
 ```
 
+[Link to Zoo Application](https://github.com/JayDob3/JayDob3.github.io/tree/main/ZooAuthentication)
+
+[Link to Messaging Database](https://github.com/JayDob3/JayDob3.github.io/tree/main/DAD220UpdatedFinalProject)
+
+```
+```
 
 ### Support or Contact
 
