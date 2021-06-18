@@ -189,18 +189,11 @@ Reflecting on the process of enhancing my artifact, it was difficult to start. I
 
 
 ```markdown
-[https://github.com/JayDob3/JayDob3.github.io/tree/main/ZooAuthentication](url) and ![Java Image](https://raw.githubusercontent.com/JayDob3/JayDob3.github.io/main/ePortfolio%20Images/Java-1.jpg)
+Link to Zoo Application [Github](https://github.com/JayDob3/JayDob3.github.io/tree/main/ZooAuthentication).
 
-[https://github.com/JayDob3/JayDob3.github.io/tree/main/ZooAuthentication](url) and ![Java Image](https://raw.githubusercontent.com/JayDob3/JayDob3.github.io/main/ePortfolio%20Images/Java-2.jpg)
-
-[https://github.com/JayDob3/JayDob3.github.io/tree/main/DAD220UpdatedFinalProject](url) ![MySQL Image](https://raw.githubusercontent.com/JayDob3/JayDob3.github.io/main/ePortfolio%20Images/MySQL.jpg)
+Link to Messaging Database [Github](https://github.com/JayDob3/JayDob3.github.io/tree/main/DAD220UpdatedFinalProject).
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JayDob3/JayDob3.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
