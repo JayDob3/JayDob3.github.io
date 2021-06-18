@@ -2,7 +2,16 @@
 ## Software Engineering ePortfolio
 ### *CS499 Computer Science Capstone*
 
+
+```
+```
+
+
 *My name is Janera Dobson (She/Her), preferred name Jay. I am a President's List alumni at Southern New Hampshire University, majored in Computer Science with a concentration in Software Engineering! Further down, I have thoroughly introduced myself via my Professional Self-Assessment. You will also find a couple of artifacts I have developed from my previous years at SNHU and will now be showcasing them in more complex and professionally functional applications which I advanced throughout my Computer Science Capstone course.*
+
+
+```
+```
 
 
 ## *Table of Content*
@@ -13,14 +22,35 @@
 5. Databases: DAD-220 MySQL Database Enhancement
 
 
+```
+```
 
 
-### *Professional Self-Assessment*
+### *Professional Self-Assessment:*
+
+Professional Self-Assessment 
+My journey throughout my Computer Science program was very challenging but completely worth it. The reason being was because I had no prior experience in Software Engineering. I currently have a 15 year plus background in the medical field then one night working an overnight shift, I felt a desire for change in my life. A change that required more from me, a change that challenged me which required me to think outside the box, and find solutions. This change demanded me to apply to Southern New Hampshire University for their Computer Science Bachelor's program, concentrating in Software Engineering. One might think why such a drastic change, but I follow up with that I love technology and I inspire to make an impact on the world not only being hands-on with patients but now this time using my prior medical knowledge and experience to develop life-changing medical software.
+
+So, completing my coursework, I was ready and knew I was going to work extremely hard with many sleepless nights. There were times where I thought I was going to give in from the tears shed due to the frustration of not knowing how to code any language, not being able to figure out a specific problem(s) or application(s) nor did I know a single person with any computer science background to look for help. Yet giving up has never been in my nature because I love a challenge, therefore, I prevailed like I always do! I took all my course assignments one at a time and although I have neared the finish line, there is a lot more I will continuously educate myself on and practice daily to stay sharp and consistent within the field to eventually start changing lives one code at a time.
+
+Showcasing my strengths required me to use languages of choice, first, Java, and I can admit, I still have some work to do which I am willing to do. The next, I had hardly much experience in, MySQL. When I first started at SNHU the first language I learned was Python which seemed pretty straightforward, then came C++ which took me for a loop (literally) because I was just getting used to Python, and then the confusion. started. Thereafter, Java came along, and it was like a breath of fresh air considering it was like C++, but concepts were easier to grasp (for at least it was for me). From then on, I knew I felt comfortable with programming in Java, and considering how many companies including healthcare systems use Java, I wanted to further enhance my skills by applying it to my Zoo Application. While I understood MySQL was a language that manipulated databases, we did not always have to utilize it during my program, so, I wanted to use MySQL to showcase my growth beyond my introductory to SQL course by enhancing a Messaging App from scratch using Sublime Text when it was first constructed with Codio.
+
+I did not always work alone throughout my computer science program I collaborated in a team environment. As a team we were responsible for creating a Jukebox Playlist Application which made programming feel surreal because I was involved in a project with many others which motivated me to want more group interactions, but this time in the real world. This collaboration came about when I was enrolled in my CS-310 Collaboration and Team project course. In this course, we practiced appropriate change control and versioning practices using bitbucket which supported collaborations on a project via remote contributors. It was so much fun and made me eager to start in the field.
+
+During my CS-250 Software Development Lifecycle course, I studied the stages of the Software Development Lifecycle (SDLC) as a developer and tester to assess documentation and communicating effectively to stakeholders. I implemented the SDLC within an agile development environment and acquired best practices to develop high-quality software to understand the impact of communication and documentation. Overall, I enjoyed this course because I am quite an annal and thorough so filling out a Software Requirement Specification (SRS Document) was useful to know everyone was on the same page and all were required to communicate effectively to allow our Software to be designed appropriately.
+
+Knowing how to structure an application and use the correct algorithms to allow your software to run without being harsh on your system is important. Luckily, I had the first-hand experience within CS-260 Data Structures and Algorithms course. Throughout the semester, I had to develop code along with non-coding development methodologies in algorithmic design and problem-solving. Also, taking into account the need to use advanced algorithmic designs to evaluate complex data structures to aid in problem-solving. Hence, I wanted to use my Zoo Application below to showcase my understanding of the authentication system on a deeper level of the data it is composed of and how my algorithms will describe the way the data was transformed. Creating a structure that is simple, easy to maintain, and faster than it was when I first created it a couple of years ago.
+
+Software engineering and Databases were first introduced to me during my DAD-220 Introduction to SQL. I had become knowledgeable of how to create structured databases, how to manipulate them, how to analyze data through queries using CRUD (Create, Read, Update, Delete). For this course, we used Codio and before this course, I never heard of it but learned to like how sleek the IDE was as a first-time user. Thus, enjoying how simple but complex MySQL can be at times if you implement the wrong code, I liked it and because I had no other prior interaction with MySQL, I wanted to showcase my skills and growth by recreating a database management system (DBMS) to enhance a Messaging App from this specific course to display how I was able to organize the collection of data to interact with users, add extra features, and even incorporate a security factor that wasn't a part of the original application.
+
+Security is one of the major components of Software. For security-minded professionals, only the appropriate people must gain access to data in a computer system. Consequently, that is why defense programming is one of the most important approaches towards protecting a program from adverse and unforeseen circumstances. After taking my CS-405 Secure Coding and learning all about no trust and defense-in-depth, my Zoo Application was completely and utterly susceptible to vulnerabilities. My credentials and then passwords which were converted to MD5 hashes were hardcoded and bedded within the application. This course opened my eyes to why having such information within my source code allows a threat actor to insert their own hardcoded credentials, creating a backdoor to authorize attacks to hijack firmware, devices, systems, and software. For that reason, I needed to design my application with hackers in mind by testing and validating all inputs. This goes for my database Messaging application as well considering it had no security feature which meant it was too susceptible to SQL injections. For example, an attacker would've been able to locate my hardcoded credentials and impersonate a user to gain access to database privileges and create their input/content to send malicious SQL commands executed within the database. Thankfully, from all the knowledge I know now, my artifacts below and all my future programs will be secured using defense programming from the beginning to save time and money.
+
+To conclude my self-assessment, I have included two artifacts (one I used twice in two different categories) that fit together to form my portfolios as a whole. Those artifacts have been briefly described earlier and they were a Zoo Application created first in my IT-145 course which I used to validate my competence in Software Design and Engineering along with my Algorithms and Data Structure categories. The other was a Messaging App Database from my DAD-220 course which demonstrates proficiency in my Databases category. Both artifacts will help exhibit the full range of my computer science talents and abilities as they prove how I was able to take a beginner's course application and enhance it over time during my computer science capstone to showcase my accumulative knowledge and perseverance on obtaining a whole new fields technology and languages without giving up. Now here I am and I'm ready for whatever challenge the software of the world has in store for me and I shall conquer them!
 
 
 
-
-
+```
+```
 
 
 ### *Code Review:*
@@ -38,12 +68,16 @@ Below is a link directly to my YouTube page where I uploaded my Code Review wher
 This video was built using [YouTube](https://www.youtube.com/watch?v=sXFcmMqBQNA).
 
 
+```
+```
+
 
 #### *Category Three: Databases*
 For my Database category, the artifact I selected was my final project, Database Management Project Report from my DAD-220: Introduction to SQL course. This specific course covered structured query language (SQL) and how such language can be used to manage database schemas, manipulate data, and analyze data. Therefore, my report showed proficiency in inserting a person in a table, altering a person in a table, update records, delete records, alter a contact list, update records in the contact list, update records again in the contact list, insert records, create an image table, create a message-image intersection table, insert records to image table, insert records to a message-image table, find all messages sent to a specific person, find the number of messages sent to every person, and lastly, find all the messages that have at least one image attached using INNER JOINs. My enhancement plan for this project is to improve the artifact by expanding its complexity to allow for more readable codes. I also plan to add more advanced MySQL concepts to show how my knowledge in this specific programming language has expanded. I can do so by adding more users, secure codes to adopt security levels to specific users which will allow them access to only the amount of data required of them.
 
 
-
+```
+```
 
 
 #### *Software Design and Engineering: Zoo Authentication Enhancement*   
@@ -88,7 +122,8 @@ while (tryCount < maxTryCount) {
 Reflecting on the process of enhancing and modifying my artifact, I learned how to truly focus on writing clean efficient codes and how to implement what I learned in my Secure Coding course to protect my application. I learned how to make my program complex but simplistic and portable. How my artifact was improved by including an admin text file, a credential text file, a veterinarian text file, a zookeeper text file, a role class, an MD5 digest class, an MD5 Hash class, a class that reads in my file, main class, and a README file that explains exactly what the program is designed to do. I needed to add comments where necessary within my codes to adhere to best practices to permit any user who will see my codes to truly understand my application. Lastly, I needed to design my application with hackers in mind by testing and validating all inputs whether it's reading from any of my text files mentioned previously, formulate algorithms that would verify user login attempts, and verify Hash passwords. As a result, I would have a Zoo Application that would adhere to all the coding standards, best practices, and showcase how my programming skills have matured through repetition in my time here at Southern New Hampshire University as a Computer Science, Software Engineering student.
 
 
-
+```
+```
 
 
 #### *Algorithms and Data Structure: Zoo Authentication Enhancement*
@@ -124,7 +159,8 @@ public static boolean isValidUser(Map<String, String> credentials, String user, 
 Reflecting on the process of enhancing and modifying my artifact, was very informational. The reason being, because I was able to go back through all I learned in school and outside of school on my own to put together a professionally functional application. I enjoyed taking my application from a low-level beginner Java developer to a more proficient level. I'm sure there are other factors that I can imply to continuously enhancing the program, but I am satisfied with how my program came about after subjecting all my knowledge learned. The one challenge I faced was how to implement the algorithm to ensure my application did not continuously run without exiting the program. This was an issue when I first created it, but then after doing some research it all came together. My artifact was improved by formulating algorithms that would verify user login attempts, verify Hash passwords, try-catch credentials, and throw exceptions if needed.
 
 
-
+```
+```
 
 
 #### *Databases: DAD-220 MySQL Database Enhancement*
