@@ -48,6 +48,7 @@ To conclude my self-assessment, I have included two artifacts (one I used twice 
 
 
 
+
 ```
 ```
 
@@ -165,6 +166,8 @@ Reflecting on the process of enhancing and modifying my artifact, it was very in
 The artifact I chose for my Database category was my Messaging Application to assume the role of a newly hired database engineer for an application startup. I was asked to enhance the database to support a couple of new features in the app through the use of structured query language (SQL) to implement CRUD (Create, Read, Update, and Delete) to manage database schemas, manipulate data, and analyze data. This application was specifically designed to show proficiency in inserting a person in a table, altering a person in a table, update records, delete records, alter a contact list, update records in the contact list, update records again in the contact list, insert records, create an image table, create a message-image intersection table, insert records to image table, insert records to a message-image table, find all messages sent to a specific person, find the number of messages sent to every person, and lastly, find all the messages that have at least one image attached using INNER JOINs. This final project was first created in my DAD-220-R5643: Introduction to SQL course. I was enrolled in this course during the 19EW5 semester (May 6, 2019-June 30, 2019).
 
 I selected this artifact because I do not utilize MySQL at all and it's a language I have very little experience using. The components of the artifact which would showcase my skills and abilities in software development are how I maintained, created, and retrieved information from a database in a table of rows and columns. Doing so I will illustrate how I can use databases and MySQL to distribute large datasets by accessing and retrieving data from innumerable databases once I reconstruct the entire program from scratch. The artifact was improved by creating advanced discrete tables for the database, add a new value to the person table called age, uploading the CSV file within my artifact, and add security factors where a user can log in but only is granted specific privileges and inhibit others. I'll also implement how I can accidentally give a user access but then revoke and then drop them. Overall, the artifact was improved by needing to completely figure out solutions on how to correctly implement the messaging app just as it was originally designed on Codio with some predefined statements. For example:
+
+
 ```
 # Create csv file
 LOAD DATA LOCAL INFILE 'C:\ProgramData\MySQL\MySQL Server 8.0\Uploads\contact_list.csv'
