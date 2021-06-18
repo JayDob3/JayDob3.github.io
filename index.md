@@ -27,7 +27,7 @@
 
 #### *Category One: Software Engineering/Design and Category Two: Algorithms and Data Structure*
 
-Below is a link directly to my YouTube page where I uploaded my Code Review where I addressed the following in my code reviews:
+Below is a link directly to my YouTube page where I uploaded my Code Review where I addressed the following:
 
 [x] Existing functionality: Walk through and identify what the code is, what it does, and how it works.
 
