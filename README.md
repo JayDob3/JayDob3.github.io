@@ -17,6 +17,7 @@
 ### *Code Review*
 
 Below is a link directly to my YouTube page where I uploaded my Code Review where I addressed the following in my code reviews:
+
 [x] Existing functionality: Walk through and identify what the code is, what it does, and how it works.
 
 [x] Code Analysis: Review the code structure, look for code efficiencies, and check for comments and code documentation. Explain your findings.
