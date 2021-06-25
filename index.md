@@ -192,7 +192,7 @@ Reflecting on the process of enhancing my artifact, it was difficult to start. I
 
 [Link to Enhanced Zoo Application](https://github.com/JayDob3/JayDob3.github.io/tree/main/ZooAuthentication)
 
-[link to Original Zoo Application](https://github.com/JayDob3/Authentication.java)
+[Link to Original Zoo Application](https://github.com/JayDob3/Authentication.java)
 
 [Link to Messaging Database](https://github.com/JayDob3/JayDob3.github.io/tree/main/DAD220UpdatedFinalProject)
 
