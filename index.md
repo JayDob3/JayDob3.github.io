@@ -196,6 +196,8 @@ Reflecting on the process of enhancing my artifact, it was difficult to start. I
 
 [Link to Messaging Database](https://github.com/JayDob3/JayDob3.github.io/tree/main/DAD220UpdatedFinalProject)
 
+[Link to Original Database Management Report](https://github.com/JayDob3/JayDob3.github.io/blob/main/DAD220UpdatedFinalProject/7-1%20Final%20Project-%20Database%20Management%20Report.docx)
+
 ```
 ```
 
